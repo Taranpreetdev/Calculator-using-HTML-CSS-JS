@@ -21,7 +21,7 @@ html, body {
 .row input{
   font-size: 24px;
   margin: 0;
-  padding: 20px 0px;
+  padding: 20px 10px;
   border: 2px solid black;
   border-radius: 5px;
 }
@@ -31,3 +31,5 @@ html, body {
   grid-template-columns:2.8fr 1fr;
   
 }
+
+ 
